@@ -19,6 +19,9 @@ This repository contains an **end-to-end data analysis project** that explores, 
    * Time-series and trend analysis
    * Correlation & comparison visuals
    * Drill-through & filters for interactivity
+<img width="1431" height="803" alt="Screenshot 2025-10-02 185641" src="https://github.com/user-attachments/assets/58d62d4d-3772-4745-8e69-6d9915aa6635" />
+<img width="1431" height="802" alt="Screenshot 2025-10-02 185705" src="https://github.com/user-attachments/assets/22f7985a-c51f-48fb-ac84-855b7e124507" />
+<img width="1431" height="798" alt="Screenshot 2025-10-02 185722" src="https://github.com/user-attachments/assets/b0beae1d-8684-4880-bcab-78b82ccc459d" />
 
 ---
 
